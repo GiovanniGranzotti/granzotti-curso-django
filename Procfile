@@ -1,0 +1,1 @@
+web: gunicorn pygran.wsgi --log-file -
